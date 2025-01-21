@@ -1,0 +1,3 @@
+([('WatchBatteryPricing',
+   '/Users/geekysmac/Desktop/pricemanager/watch_price_app/dist/WatchBatteryPricing',
+   'EXECUTABLE')],)
